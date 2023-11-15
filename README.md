@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SalimVirgo&label=Profile%20views&color=0e75b6&style=flat" alt="SalimVirgo" /> </p>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalimVirgo&theme=material-palenight&layout=compact&langs_count=6" alt="Top Languages"/> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SalimVirgo" alt="SalimVirgo" /></a> </p>
 
 <div>
